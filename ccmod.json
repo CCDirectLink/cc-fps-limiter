@@ -1,6 +1,6 @@
 {
 	"id": "yoshi-fps-limiter",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"module": true,
 	"title": "FPS Limiter",
 	"description": "Adds an option for capping the game's framerate.",

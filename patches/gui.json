@@ -1,0 +1,21 @@
+{
+	"labels": {
+		"options": {
+			"headers": {
+				"cc-fps-limiter": "FPS Limiter"
+			},
+
+			"set-fps-limit": {
+				"name": "Maximum FPS",
+				"description": "Caps the game at a specified frame rate. \\c[1]Needs a restart!",
+				"group": [
+                    "60",
+					"100",
+					"120",
+					"144",
+					"240"
+                ]
+			}
+		}
+	}
+}
